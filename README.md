@@ -1,2 +1,10 @@
-# Diabetes-Prediction
-Machine Learning project to predict diabetes using patient health metrics such as glucose level, BMI, age, and blood pressure. Built using Python, Pandas, and Scikit-learn.
+## Model Used
+Logistic Regression
+
+## Accuracy
+Accuracy: 80%
+
+## How to Run
+1. Install requirements
+2. Open notebook
+3. Run all cells
